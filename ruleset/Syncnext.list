@@ -1,0 +1,22 @@
+# Syncnext API
+DOMAIN-SUFFIX,notion-api.splitbee.io # 主要，會 AdgurdHome 攔截，需要加入白名單
+DOMAIN-SUFFIX,syncnext-api.5mlstudio.com # 備用（部分區域網絡此域名需要翻牆）
+
+# 配套功能
+DOMAIN-SUFFIX,themoviedb.org # 元數據匹配服務
+DOMAIN-SUFFIX,thetvdb.com # 分集數據匹配服務
+DOMAIN-SUFFIX,tmdb.org # 元數據圖片
+DOMAIN-SUFFIX,discord.com # 自動反饋錯誤
+
+# 頻道
+DOMAIN-SUFFIX,czzy01.com #廠長資源（建議翻牆，部分區域網絡可以不翻牆訪問）
+歐樂影院 #地址（Menu-設置）查看，需要翻牆
+DOMAIN-SUFFIX,olemovienews.com #歐樂部分影片的播放域名，提示 SSL 錯誤既需要翻牆
+DOMAIN-SUFFIX,ddys.art #低端視頻
+
+# VOD 列表
+# 感謝 CZ HONG（群組成員）反饋
+DOMAIN-SUFFIX,haiwaikan.com # 海外看，只允許大陸境外 IP 訪問
+DOMAIN-SUFFIX,bfvvs.com
+DOMAIN-SUFFIX,cdn.venus7202.com
+DOMAIN-SUFFIX,cdn.ceres9350.com
