@@ -1,3 +1,5 @@
+# 更新 2023/2/26
+
 # Syncnext API
 DOMAIN-SUFFIX,notion-api.splitbee.io # 主要，會 AdgurdHome 攔截，需要加入白名單
 DOMAIN-SUFFIX,syncnext-api.5mlstudio.com # 備用（部分區域網絡此域名需要翻牆）
@@ -10,7 +12,8 @@ DOMAIN-SUFFIX,discord.com # 自動反饋錯誤
 
 # 頻道
 DOMAIN-SUFFIX,czzy01.com #廠長資源（建議翻牆，部分區域網絡可以不翻牆訪問）
-歐樂影院 #地址（Menu-設置）查看，需要翻牆
+
+# 歐樂影院 #地址（Menu-設置）查看，需要翻牆
 DOMAIN-SUFFIX,olemovienews.com #歐樂部分影片的播放域名，提示 SSL 錯誤既需要翻牆
 DOMAIN-SUFFIX,ddys.art #低端視頻
 
