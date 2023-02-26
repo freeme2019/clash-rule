@@ -2,8 +2,8 @@
 # Syncnext API
 # 主要，會 AdgurdHome 攔截，需要加入白名單
 # 備用（部分區域網絡此域名需要翻牆）
-DOMAIN-SUFFIX,notion-api.splitbee.io
-DOMAIN-SUFFIX,syncnext-api.5mlstudio.com
+DOMAIN,notion-api.splitbee.io
+DOMAIN,syncnext-api.5mlstudio.com
 # 配套功能
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,thetvdb.com
