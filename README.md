@@ -7,6 +7,7 @@
 #### 使用方法为：
 #### 1、打开openclash-配置文件订阅-在编辑配置文件订阅信息页面内，把订阅转换模板改为自定义模版并使用以上raw链接，订阅转换服务地址建议选择api.wcc.best。
 #### 2、如果加载出错，建议openclash先还原配置再使用，并且请在覆写设置页面修改Github地址为代理地址“https://ghproxy.com/”以防无法连接。
+#### 还原openclash http://你的路由ip/cgi-bin/luci/admin/services/openclash/restore
 #### 3、每次更新订阅后，建议关闭重启一次openclash以避免加载的yaml来自旧缓存。
 #### 4、推荐openclash使用meta核心并开启嗅探功能和Fallback-Filter+mosdos，可达到最佳上网效果。
 
