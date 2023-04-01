@@ -5,7 +5,7 @@
 ### https://raw.githubusercontent.com/freeme2019/clash-rule/main/freeme.ini
 #### 本模版特色：在ACL4SSR模版基础上增强了更多的主流分流规则更符合大部分人的使用习惯，加强了广告拦截，配合下方设置以及漏网之鱼策略组选择代理 可基本实现防DNS泄漏，配合openclash subconverter可以在线更新订阅节点。（但可能不适合性能较低的路由器）
 #### 使用方法为：
-#### 1、打开openclash-配置文件订阅-在编辑配置文件订阅信息页面内，把订阅转换模板改为自定义模版并使用以上raw链接，订阅失败时建议多改几个订阅转换服务地址试试。（结尾改为freeme_fp.ini 为不过滤倍率节点的配置）
+#### 1、打开openclash-配置文件订阅-在编辑配置文件订阅信息页面内，把订阅转换模板改为自定义模版并使用以上raw链接，订阅失败时建议多改几个订阅转换服务地址试试。
 #### 2、如果加载出错，建议openclash先还原配置再使用，并且请在覆写设置页面修改Github地址为代理地址“https://ghproxy.com/”以防无法连接。
 #### 还原openclash http://你的路由ip/cgi-bin/luci/admin/services/openclash/restore
 #### 3、每次更新订阅后，建议关闭重启一次openclash以避免加载的yaml来自旧缓存。
